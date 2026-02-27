@@ -11,7 +11,6 @@ The model is designed to support **financial planning, budgeting, and strategic 
 ## 🎯 Objectives
 
 * Develop a dynamic financial forecasting model
-* Perform scenario analysis (Base, Best, Worst cases)
 * Forecast revenue, costs, and profitability
 * Support data-driven financial decisions
 * Demonstrate financial modeling skills

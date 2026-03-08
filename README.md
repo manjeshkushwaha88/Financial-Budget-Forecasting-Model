@@ -2,25 +2,38 @@
 
 ## Overview
 
-This repository contains an Excel-based financial budgeting and forecasting model. The model demonstrates how financial assumptions can be used to generate financial projections and summarize results through an income statement.
+This repository contains an Excel-based financial budgeting and forecasting model. The model uses key financial assumptions to generate projected financial results and summarize them through an income statement.
 
-Users can modify input assumptions to observe how financial results change in the forecast.
+Such models are commonly used in organizations to support budgeting, financial planning, and performance analysis.
+
+---
+
+## Purpose of the Model
+
+This model helps in:
+
+* Estimating future financial performance
+* Understanding how assumptions affect financial outcomes
+* Supporting budgeting and financial planning
+* Summarizing projected results in a structured format
+
+Organizations often use similar models to assist in **decision-making, planning, and evaluating financial performance**.
 
 ---
 
 ## Tools Used
 
-* Microsoft Excel
-* Financial Forecasting
+* **Microsoft Excel**
+* Financial Forecasting Techniques
 * Basic Financial Modeling
 * Income Statement Analysis
 
 ---
 
-## Repository Files
+## Repository Contents
 
-* **Financial_Budget_Forecasting_Model.xlsx** – Main Excel financial forecasting model
-* **images/** – Folder containing screenshots of the model sections
+* **Financial_Budget_Forecasting_Model.xlsx** – Main Excel forecasting model
+* **images/** – Folder containing screenshots of different model sections
 
 ---
 
@@ -44,18 +57,31 @@ Users can modify input assumptions to observe how financial results change in th
 
 ---
 
+## Model Components
+
+The model consists of the following sections:
+
+**Input Assumptions**
+Key financial variables used to generate projections.
+
+**Financial Forecast Table**
+Displays projected financial values generated from the assumptions.
+
+**Income Statement Summary**
+Provides a structured summary of financial outcomes including revenue, expenses, and profit.
+
+---
+
 ## How to Use
 
 1. Download the Excel file from this repository.
 2. Open **Financial_Budget_Forecasting_Model.xlsx** in Microsoft Excel.
-3. Modify the values in the **Input Assumptions** section.
-4. The financial forecast and income statement summary will update automatically.
+3. Modify values in the **Input Assumptions** section.
+4. The forecast table and income statement summary will update automatically.
 
 ---
 
 ## Author
 
-Manjesh Kushwaha
-
-🎓 MBA (Finance) Aspirant
-📊 Interested in Data Analytics
+MBA (Finance) Student
+Interested in financial modeling, budgeting, and financial analysis.

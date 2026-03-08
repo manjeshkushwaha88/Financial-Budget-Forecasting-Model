@@ -55,5 +55,7 @@ Users can modify input assumptions to observe how financial results change in th
 
 ## Author
 
-MBA (Finance) Student
-Interested in financial modeling, budgeting, and financial analysis.
+Manjesh Kushwaha
+
+🎓 MBA (Finance) Aspirant
+📊 Interested in Data Analytics

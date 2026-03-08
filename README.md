@@ -83,5 +83,9 @@ Provides a structured summary of financial outcomes including revenue, expenses,
 
 ## Author
 
-MBA (Finance) Student
-Interested in financial modeling, budgeting, and financial analysis.
+**Manjesh Kushwaha**
+
+🎓 MBA (Finance) Aspirant  
+📊 Interested in Data Analytics & Business Intelligence  
+
+If you like this project, feel free to ⭐ the repository.
